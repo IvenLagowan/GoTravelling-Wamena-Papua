@@ -1,2 +1,1 @@
-# GoTravelling-Wamena-Papua
-Modifikasi website edukasi code 2023
+# travel # responsive-web-layout
